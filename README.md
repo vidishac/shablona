@@ -1,4 +1,4 @@
-## shablona
+work## shablona
 [![Build Status](https://travis-ci.org/uwescience/shablona.svg?branch=master)](https://travis-ci.org/uwescience/shablona)
 
 Shablona is a template project for small scientific python projects. The
